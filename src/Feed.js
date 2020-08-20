@@ -181,6 +181,7 @@ class Feed {
         headers: {
           'user-agent': this.userAgent,
           accept: ALLOWED_MIMES.join(','),
+          "x-requested-with":"rss-feed-emitter"
         },
       })
       .on('response', (res) => {
