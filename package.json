@@ -1,7 +1,7 @@
 {
-  "name": "rss-feed-emitter",
+  "name": "rss-feed-emitter-sazzedition",
   "version": "3.0.0",
-  "description": "Super RSS News Feed aggregator written in Node.js and ES6",
+  "description": "Super RSS News Feed aggregator written in Node.js and ES6 by Filipe Deschamps",
   "main": "src/FeedEmitter.js",
   "types": "types/FeedEmitter.d.ts",
   "directories": {

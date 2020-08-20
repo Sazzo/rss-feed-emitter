@@ -23,6 +23,7 @@
   Track tons of feeds and receive events for every new item published with this super RSS News Feed aggregator.
 </p>
 
+# USE THE OFFICIAL VERSION, THIS IS A PERSONAL VERSION.
 
 ## Tutorial
 
